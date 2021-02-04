@@ -193,7 +193,7 @@ automated test suite.
 From the `frontend` directory, run `npm install`
 
 ## Database Setup
-Install Postgres following [these instructions](https://www.postgresql.org/download/). 
+Install Postgres (13.1) following [these instructions](https://www.postgresql.org/download/). 
 On Linux, you have to run:
 ```bash
 apt-get install postgresql

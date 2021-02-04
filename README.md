@@ -144,7 +144,7 @@ We recommend working within a virtual environment whenever using Python for proj
 for each project separate and organized. To create a virtual environment, observe the following steps:
 1. Install `virtualenv` if you haven't done so yet: `pip3 install virtualenv`
 2. From the root directory, create a virtual environment called `env`: `python -m venv env`
-3. Activate the virtual environment: `source env/bin/activate`
+3. Activate the virtual environment: `source env/Scripts/activate`
 4. To deactivate the virtual environment, simply run: `deactivate`
 
 #### PIP Dependencies
